@@ -8,6 +8,7 @@ This project is aimed at predicting the case of customers default payments in Ta
 Started with the logistic regression model, then compared the results with traditional machine learning-based models. Then K-means SMOTE resampling method on Taiwan client’s credit dataset.
 
 Data Read & Handle Missing Values
+
 Data Preprocessing
 Eploratory Data Analysis
 Detecting outliers in dataframe
