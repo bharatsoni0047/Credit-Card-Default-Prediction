@@ -10,16 +10,26 @@ Started with the logistic regression model, then compared the results with tradi
 Data Read & Handle Missing Values
 
 Data Preprocessing
+
 Eploratory Data Analysis
+
 Detecting outliers in dataframe
+
 Feature Engineering
+
 Label and One Hot Encoding
+
 Applying SMOTE (Synthetic Minority Oversampling Technique)
 
+
 MODEL IMPLEMENTATION-
+
 Model1. Logistic Regression
+
 Model2. Random Forest Classifier
+
 Model3. K-Nearest Neighbour Classifier
+
 Model4. Support Vector Classifier
 
 Best models are Random Forest and K-Neighbor Classifier as they have the best Precision, Recall, ROC_AUC and F1 score values. 
